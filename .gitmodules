@@ -1,0 +1,6 @@
+[submodule "lottery"]
+	path = lottery
+	url = https://github.com/romanleitner/lottery.git
+[submodule "catalog"]
+	path = catalog
+	url = https://github.com/romanleitner/catalog.git
